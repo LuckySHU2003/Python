@@ -1,0 +1,286 @@
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+ 1 2 3 4 5 6 7 8 
+Player 1 to move
+Please enter action (h to see valid commands): a0
+Invalid column, please enter a number between 1 and 8 inclusive
+Please enter action (h to see valid commands): add1
+Invalid command. Enter 'h' for valid command format
+Please enter action (h to see valid commands): a1
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+ 1 2 3 4 5 6 7 8 
+Player 2 to move
+Please enter action (h to see valid commands): a1please
+Invalid command. Enter 'h' for valid command format
+Please enter action (h to see valid commands): a1
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+ 1 2 3 4 5 6 7 8 
+Player 1 to move
+Please enter action (h to see valid commands):  a1
+Invalid command. Enter 'h' for valid command format
+Please enter action (h to see valid commands): a1
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+ 1 2 3 4 5 6 7 8 
+Player 2 to move
+Please enter action (h to see valid commands): a
+Invalid command. Enter 'h' for valid command format
+Please enter action (h to see valid commands): 1
+Invalid command. Enter 'h' for valid command format
+Please enter action (h to see valid commands): a1
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+ 1 2 3 4 5 6 7 8 
+Player 1 to move
+Please enter action (h to see valid commands): a1
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+ 1 2 3 4 5 6 7 8 
+Player 2 to move
+Please enter action (h to see valid commands): a1
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+ 1 2 3 4 5 6 7 8 
+Player 1 to move
+Please enter action (h to see valid commands): a1
+|-|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+ 1 2 3 4 5 6 7 8 
+Player 2 to move
+Please enter action (h to see valid commands): a1
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+ 1 2 3 4 5 6 7 8 
+Player 1 to move
+Please enter action (h to see valid commands): a1
+You can't add a piece to a full collumn!
+Please enter action (h to see valid commands): a9
+Invalid column, please enter a number between 1 and 8 inclusive
+Please enter action (h to see valid commands): r9
+Invalid column, please enter a number between 1 and 8 inclusive
+Please enter action (h to see valid commands): r2
+You can't remove a piece from an empty collumn!
+Please enter action (h to see valid commands): r1
+|-|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+ 1 2 3 4 5 6 7 8 
+Player 2 to move
+Please enter action (h to see valid commands): r1
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+ 1 2 3 4 5 6 7 8 
+Player 1 to move
+Please enter action (h to see valid commands): r1
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+ 1 2 3 4 5 6 7 8 
+Player 2 to move
+Please enter action (h to see valid commands): r1
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+ 1 2 3 4 5 6 7 8 
+Player 1 to move
+Please enter action (h to see valid commands): r1
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+ 1 2 3 4 5 6 7 8 
+Player 2 to move
+Please enter action (h to see valid commands): r1
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+ 1 2 3 4 5 6 7 8 
+Player 1 to move
+Please enter action (h to see valid commands): r1
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|O|-|-|-|-|-|-|-|
+ 1 2 3 4 5 6 7 8 
+Player 2 to move
+Please enter action (h to see valid commands): r1
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+ 1 2 3 4 5 6 7 8 
+Player 1 to move
+Please enter action (h to see valid commands): r1
+You can't remove a piece from an empty collumn!
+Please enter action (h to see valid commands): a1
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+ 1 2 3 4 5 6 7 8 
+Player 2 to move
+Please enter action (h to see valid commands): a2
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|X|O|-|-|-|-|-|-|
+ 1 2 3 4 5 6 7 8 
+Player 1 to move
+Please enter action (h to see valid commands): a1
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+|X|O|-|-|-|-|-|-|
+ 1 2 3 4 5 6 7 8 
+Player 2 to move
+Please enter action (h to see valid commands): a2
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|X|O|-|-|-|-|-|-|
+|X|O|-|-|-|-|-|-|
+ 1 2 3 4 5 6 7 8 
+Player 1 to move
+Please enter action (h to see valid commands): a1
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+|X|O|-|-|-|-|-|-|
+|X|O|-|-|-|-|-|-|
+ 1 2 3 4 5 6 7 8 
+Player 2 to move
+Please enter action (h to see valid commands): a2
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|X|O|-|-|-|-|-|-|
+|X|O|-|-|-|-|-|-|
+|X|O|-|-|-|-|-|-|
+ 1 2 3 4 5 6 7 8 
+Player 1 to move
+Please enter action (h to see valid commands): a1
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|X|-|-|-|-|-|-|-|
+|X|O|-|-|-|-|-|-|
+|X|O|-|-|-|-|-|-|
+|X|O|-|-|-|-|-|-|
+ 1 2 3 4 5 6 7 8 
+Player 1 wins!
+Would you like to play again? (y/n): n
