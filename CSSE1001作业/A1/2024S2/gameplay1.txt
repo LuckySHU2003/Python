@@ -1,0 +1,75 @@
+Enter board size: 3
+Enter ships sizes: 1
+--------------------
+PLAYER 1 SHIP PLACEMENT:
+ /ABC
+1|~~~
+2|~~~
+3|~~~
+Enter a comma separated list of 1 coordinates: B2
+PLAYER 2 SHIP PLACEMENT:
+ /ABC
+1|~~~
+2|~~~
+3|~~~
+Enter a comma separated list of 1 coordinates: A1
+
+-------Next_Turn--------
+PLAYER 1: 1 life remaining
+ /ABC
+1|~~~
+2|~~~
+3|~~~
+PLAYER 2: 1 life remaining
+ /ABC
+1|~~~
+2|~~~
+3|~~~
+
+PLAYER 1's turn!
+Enter a coordinate to attack: C2
+
+-------Next_Turn--------
+PLAYER 1: 1 life remaining
+ /ABC
+1|~~~
+2|~~~
+3|~~~
+PLAYER 2: 1 life remaining
+ /ABC
+1|~~~
+2|~~!
+3|~~~
+
+PLAYER 2's turn!
+Enter a coordinate to attack: C2
+
+-------Next_Turn--------
+PLAYER 1: 1 life remaining
+ /ABC
+1|~~~
+2|~~!
+3|~~~
+PLAYER 2: 1 life remaining
+ /ABC
+1|~~~
+2|~~!
+3|~~~
+
+PLAYER 1's turn!
+Enter a coordinate to attack: A1
+
+=========
+GAME OVER
+=========
+PLAYER 1 won!
+PLAYER 1: 1 life remaining
+ /ABC
+1|~~~
+2|~O!
+3|~~~
+PLAYER 2: 0 lives remaining
+ /ABC
+1|X~~
+2|~~!
+3|~~~
